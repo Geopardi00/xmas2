@@ -26,7 +26,7 @@ const LEVELS: LevelConfig[] = [
       {
         id: "L2A",
         imageSrc: IMAGES.LEVEL_2_A,
-        hint: "irma magna",
+        hint: "Olen pelto vailla viljaa, aaltojen kyntämä, metsän kätkemä",
         layout: "split",
         inputs: [{ id: "l2a_input", expected: "Pirunpelto" }]
       },
